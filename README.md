@@ -8,7 +8,7 @@ I came across this excellent project by [rijkvp on GitHub](https://github.com/ri
 
 ## Goal
 
-Let Claude Code write the entire project using very minimal prompts. I intentionally left out any specifics about the type of machine learning to use. I'm assuming this all quite well known and I'll ask Claude to explain the choices made later on.
+Let Claude Code write the entire project using very minimal prompts. I intentionally left out any specifics about the type of machine learning to use. I'm assuming this is all quite well known and I'll ask Claude to explain the choices made later on.
 
 ---
 
