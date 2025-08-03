@@ -2,7 +2,7 @@
 
 A classic Tetris implementation built using Claude Code with minimal prompting, in Python using Pygame. It features all standard gameplay mechanics. Machine learning is used to let an AI play the game.
 
-I came across this excellent project by [rijkvp on GitHub](https://github.com/rijkvp/tetris-ai), which inspired me to try this quick experiment. I spent less than an hour on it, and most of that time was used to write this documentation. I wrote no code by hand and borrowed screenshots from his project for the second prompt. If you're interested in learning more, he elaborates on this in his repository.
+I came across this excellent project by [rijkvp on GitHub](https://github.com/rijkvp/tetris-ai), which inspired me to try this quick experiment. I spent less than an hour on it, and most of that time was used to write this documentation. I wrote no code by hand and borrowed screenshots from his project for the second prompt. If you're interested in learning more Rijk will help you with this awesome game he made: https://play.rijkvp.nl/tetris-ai/en
 
 ---
 
