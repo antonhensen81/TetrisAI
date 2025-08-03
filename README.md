@@ -2,13 +2,13 @@
 
 A classic Tetris implementation built using Claude Code with minimal prompting, in Python using Pygame. It features all standard gameplay mechanics. Machine learning is used to let an AI play the game.
 
-I came across this excellent project by [rijkvp on GitHub](https://github.com/rijkvp/tetris-ai), which inspired me to try this quick experiment. I spent less than an hour on it, and most of that time was used to write this documentation. I wrote no code by hand and borrowed screenshots from his project for the second prompt. If you're interested in learning more, he elaborates on this in his repository.
+I came across this excellent project by [rijkvp on GitHub](https://github.com/rijkvp/tetris-ai), which inspired me to try this quick experiment. I spent less than an hour on it, and most of that time was used to write this documentation. I wrote no code by hand and borrowed screenshots from his project for the second prompt. If you're interested in learning more Rijk will help you with this awesome game he made: [Tetris AI](https://play.rijkvp.nl/tetris-ai/en)
 
 ---
 
 ## Goal
 
-Let Claude Code write the entire project using very minimal prompts. I intentionally left out any specifics about the type of machine learning to use. I'm assuming this all quite well known and I'll ask Claude to explain the choices made later on.
+Let [Claude Code](https://www.anthropic.com/claude-code) write the entire project using very minimal prompts. I intentionally left out any specifics about the type of machine learning to use. I'm assuming this is all quite well known and I'll ask Claude to explain the choices made later on.
 
 ---
 
@@ -33,7 +33,7 @@ The code was written using only **two very minimal prompts**, each lacking detai
 
 ![recording.gif](images/recording.gif)
 
-Interestingly, the AI added two features I **did not specify at all**: **Lines Cleared** and **Bumpiness**. I tweaked the values (shown in the recording above) to get decent performance. I'm not aiming for perfection—this is just a quick experiment.
+Interestingly, the Claude added two features I **did not specify at all**: **Lines Cleared** and **Bumpiness**. I tweaked the values (shown in the recording above) to get decent performance. I'm not aiming for perfection—this is just a quick experiment.
 
 ---
 
