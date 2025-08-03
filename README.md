@@ -33,7 +33,7 @@ The code was written using only **two very minimal prompts**, each lacking detai
 
 ![recording.gif](images/recording.gif)
 
-Interestingly, the AI added two features I **did not specify at all**: **Lines Cleared** and **Bumpiness**. I tweaked the values (shown in the recording above) to get decent performance. I'm not aiming for perfection—this is just a quick experiment.
+Interestingly, the Claude added two features I **did not specify at all**: **Lines Cleared** and **Bumpiness**. I tweaked the values (shown in the recording above) to get decent performance. I'm not aiming for perfection—this is just a quick experiment.
 
 ---
 
